@@ -31,39 +31,28 @@ In current version, it can be used on the social software `Line` and `Telegram`.
 
 It provides seven divination methods, including six divination and one combination divination.
 
-- Six divination：`Runes`、`Rider Tarot`、`Lenormand`、`Moon Blocks`、`Nature's Whispers`、`Inspirational Wisdom`
-- Combination divination：**Combine** `Runes`、`Lenormand`、`Nature's Whispers` and `Inspirational Wisdom`, getting results.
+- Six divination：Runes、Rider Tarot、Lenormand、Moon Blocks、Nature's Whispers、Inspirational Wisdom
+- Combination divination：`Combine` Runes、Lenormand、Nature's Whispers and Inspirational Wisdom, getting the combination results.
 
 <br>
 
 `Runes`: In ancient Northern Europe, witches used Runes carved on stone or wood to divinate about upcoming wars and ordeals. It consists of 25 Rune alphabets. Each Rune has its own meaning. Some Runes have different interpretations depend upright and reversed positions, it needs to be extend the imagination based on the meaning of Runes, or with other Runes and situation.
 
-<br>
-
 `Rider Tarot`: The most commonly heard method in divination. There are 78 cards in total, with upright and reversed positions, and there are 156 different kinds of meaning. In addition to being familiar with the meaning of 78 cards, the fortuneteller also needs to extend his imagination based on the card mearning, and understand that different cards will have different interpretations.
-
-<br>
 
 `Lenormand`: It is composed of 36 cards with living objects. The card pattern is made of living objects such as `flowers`, `fish`, `towers` and other living objects. It needs to be extended and imagined by the meaning of living objects. It also needs to be interactively explained with other cards. For example, the `book` card symbolizes knowledge, reading, research, higher education, and further education courses. 
 
-<br>
-
 `Moon Blocks`: It is composed of two wooden half-moon cups with a concave flat surface. It is a divination for traditional temples to inquire about gods and Buddhas. There are four answers (three often appear): 1. Holy Cup (one convex and one flat), 2. Angry Cup (two convexes), 3. Laughing Cup (two flats), 4. Standing Cup (stand up) , But it rarely appears, so there is no such option).
 
-1. `Holy Cup` stands for `OK`, `Agree`, and `Executable`
-2. `Angry Cup` means `not good`, `disagree`, `do not recommend`, and there is no need to ask again if the matter has not changed significantly
-3. `Laughing Cup` means `Don’t understand the question`, `You already have the answer in your heart`, `This kind of question does not need to be asked`, or `The outcome has not been decided`, usually at this time you need to ask additional questions for analysis: `Do I need to ask the question more clear? `、`Is it the implementation according to the inner thoughts? `、`Is the ending undecided yet? `
-
-<br>
+1. `Holy Cup` stands for OK, Agree, and Executable
+2. `Angry Cup` means not good, disagree, do not recommend, and there is no need to ask again if the matter has not changed significantly
+3. `Laughing Cup` means Don’t understand the question, You already have the answer in your heart, This kind of question does not need to be asked, or The outcome has not been decided, usually at this time you need to ask additional questions for analysis: Do I need to ask the question more clear? 、Is it the implementation according to the inner thoughts? 、Is the ending undecided yet? 
 
 `Nature's Whispers`: composed of 50 cards containing shorten phrases, and explained by the phrases. For example, “take a breath” means that the person needs to rest or stop acting, while “big harvest” is Indicates that the current situation or predicament will be a beneficial exercise for oneself.
-
 This card is classified as a spiritual healing card.
 
-<br>
 
 `Inspirational Wisdom`: composed of 44 cards with long sentences. The long sentences bring motivational sentences that drive the adjustment of the soul.
-
 This divination is classified as a spiritual healing card.
 
 <br>
@@ -78,7 +67,7 @@ The divination flow is:
 
 ## User Flow
 
-- First time to use, need to set language of message
+First time to use, need to set language of message
 
 Currently provide `English` and `Chinese` options
 
@@ -86,7 +75,7 @@ Currently provide `English` and `Chinese` options
 
 <br>
 
-- After setting language, it will pop out the user guide message
+After setting language, it will pop out the user guide message
 
 You can click button to get 4 charts user guide, or enter menu.
 
@@ -95,8 +84,6 @@ You can click button to get 4 charts user guide, or enter menu.
 _We highly suggest you to read our User Guide before use in first time_
 
 **Now, it's your turn!**
-
-<br>
 
 ## Development History
 
