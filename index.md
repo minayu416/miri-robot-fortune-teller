@@ -13,8 +13,6 @@ layout: default
 >
 > In this moment, Miri born. She will provide you more methods to recognize your mind, sometimes give explanation.
 
-<br>
-
 Miri’s main development concept is `divination and fortune-telling`. It moves the traditional flows of divination and fortune-telling to software and the Internet. Through the message mode, it guides users follow the process and ask questions which are confused to them, getting the results from the selected divination method and explains it.
 
 At the same time, it also provides methods related to physical and mental healing, adjust the mental situation depend the selected cards.
@@ -26,8 +24,6 @@ I hope to make `Miri` form a robot fortune teller, she can like a real fortune t
 `Miri` will be set as a little girl about 10 years old. She has a strange personality and cute. She has been interested in numerology and ancient divination since she was a child. She learned numerology and divination by self-taught to help people who come to solve their confusion.
 
 In current version, it can be used on the social software `Line` and `Telegram`. The message language can choose to use `Chinese` or `English`.
-
-<br>
 
 It provides seven divination methods, including six divination and one combination divination.
 
