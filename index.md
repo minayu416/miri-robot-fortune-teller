@@ -13,6 +13,8 @@ layout: default
 >
 > In this moment, Miri born. She will provide you more methods to recognize your mind, sometimes give explanation.
 
+<br>
+
 Miri’s main development concept is `divination and fortune-telling`. It moves the traditional flows of divination and fortune-telling to software and the Internet. Through the message mode, it guides users follow the process and ask questions which are confused to them, getting the results from the selected divination method and explains it.
 
 At the same time, it also provides methods related to physical and mental healing, adjust the mental situation depend the selected cards.
