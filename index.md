@@ -34,8 +34,6 @@ It provides seven divination methods, including six divination and one combinati
 - Six divination：Runes、Rider Tarot、Lenormand、Moon Blocks、Nature's Whispers、Inspirational Wisdom
 - Combination divination：`Combine` Runes、Lenormand、Nature's Whispers and Inspirational Wisdom, getting the combination results.
 
-<br>
-
 `Runes`: In ancient Northern Europe, witches used Runes carved on stone or wood to divinate about upcoming wars and ordeals. It consists of 25 Rune alphabets. Each Rune has its own meaning. Some Runes have different interpretations depend upright and reversed positions, it needs to be extend the imagination based on the meaning of Runes, or with other Runes and situation.
 
 `Rider Tarot`: The most commonly heard method in divination. There are 78 cards in total, with upright and reversed positions, and there are 156 different kinds of meaning. In addition to being familiar with the meaning of 78 cards, the fortuneteller also needs to extend his imagination based on the card mearning, and understand that different cards will have different interpretations.
@@ -54,8 +52,6 @@ This card is classified as a spiritual healing card.
 
 `Inspirational Wisdom`: composed of 44 cards with long sentences. The long sentences bring motivational sentences that drive the adjustment of the soul.
 This divination is classified as a spiritual healing card.
-
-<br>
 
 The divination flow is:
 
@@ -84,6 +80,8 @@ You can click button to get 4 charts user guide, or enter menu.
 _We highly suggest you to read our User Guide before use in first time_
 
 **Now, it's your turn!**
+
+<br>
 
 ## Development History
 
