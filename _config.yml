@@ -1,1 +1,6 @@
+title: Miri Robot Fortune Teller
+logo: /assets/img/logo.png
+description: A bot performing divination and fortune-telling online and offering different fortune-telling methods. It currently provide 6 divination methods for prediction and playing, easy user flow guide, connecting with Line Bot and Telegram Bot platform and providing English and Chinese for being message languages. The development is still progressing...
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
